@@ -1,0 +1,7 @@
+opencv-contrib-python
+pix2text
+Flask==3.0.2
+transformers==4.38.2
+onnxruntime==1.17.1
+optimum==1.17.1
+latex2mathml==3.77.0
