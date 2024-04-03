@@ -1,7 +1,6 @@
 from transformers import TrOCRProcessor
 from optimum.onnxruntime import ORTModelForVision2Seq
 import os
-import cv2
 import zipfile
 import latex2mathml.converter
 import warnings
