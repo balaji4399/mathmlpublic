@@ -1,0 +1,1 @@
+<mathxmlns="http://www.w3.org/1998/Math/MathML"display="inline"><mrow>g<mo>(</mo>x<mo>)</mo><mo>=</mo>frac<mrow><mn>1</mn></mrow><mrow><msup>x<mrow><mn>2</mn></mrow></msup><mo>-</mo>x</mrow><mo>=</mo>frac<mrow><mn>1</mn></mrow><mrow>x<mo>(</mo>x<mo>-</mo><mn>1</mn><mo>)</mo></mrow></mrow></math>

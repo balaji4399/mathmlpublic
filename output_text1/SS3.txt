@@ -1,0 +1,2 @@
+<mathxmlns="http://www.w3.org/1998/Math/MathML"display="inline"><mrow>f<mo>(</mo>x<mo>)</mo><mo>=</mo>begin<mrow>cases</mrow><mrow><mn>1</mn><mo>-</mo>x</mrow><mrow>mathrm<mrow>if</mrow>x≤<mo>-</mo><mn>1</mn></mrow></mrow></math>
+<mathxmlns="http://www.w3.org/1998/Math/MathML"display="inline"><mrow><mrow><msup>x<mrow><mn>2</mn></mrow></msup></mrow><mrow>mathrm<mrow>if</mrow>x<mo>></mo><mo>-</mo><mn>1</mn></mrow></mrow></math>

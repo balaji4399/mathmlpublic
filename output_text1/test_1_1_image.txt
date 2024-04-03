@@ -1,0 +1,1 @@
+<mathxmlns="http://www.w3.org/1998/Math/MathML"display="inline"><mrow>begin<mrow>array</mrow><mrow>l<mo>|</mo>l<mo>|</mo>l<mo>|</mo>l<mo>|</mo>l<mo>|</mo></mrow><mrow>mathrm<mrow>A<mo></mo>Certain<mo></mo><mn>1</mn><mo>&#x0002E;</mo>amited<mo>-</mo>Tirm<mo></mo>Taxepenpt<mo></mo>Rund<mo></mo><mo>(</mo>CMLTX<mo>)</mo></mrow></mrow></mrow></math>

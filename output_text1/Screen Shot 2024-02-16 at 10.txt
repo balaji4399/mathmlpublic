@@ -1,0 +1,1 @@
+<mathxmlns="http://www.w3.org/1998/Math/MathML"display="inline"><mrow>s<mo>=</mo>vt<mo>-</mo><msub>Y<mrow><mn>2</mn></mrow></msub>g<msup>t<mrow><mn>2</mn></mrow></msup></mrow></math>

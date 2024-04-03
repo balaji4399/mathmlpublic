@@ -1,0 +1,1 @@
+<mathxmlns="http://www.w3.org/1998/Math/MathML"display="inline"><mrow>A<mo>=</mo>operatorname<mo>*</mo><msub><mrow>lim</mrow><mrow>ntoinfty</mrow></msub><msub>A<mrow>n</mrow></msub></mrow></math>

@@ -1,0 +1,1 @@
+<mathxmlns="http://www.w3.org/1998/Math/MathML"display="inline"><mrow><mo>(</mo>mathbf<mrow>a<mo>+</mo>b</mrow><msup><mo>)</mo><mrow><mn>2</mn></mrow></msup><mo>=</mo>mathbf<msup><mrow>a</mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn>mathbf<mrow>ab</mrow><mo>+</mo>mathbf<msup><mrow>b</mrow><mrow><mn>2</mn></mrow></msup></mrow></math>
